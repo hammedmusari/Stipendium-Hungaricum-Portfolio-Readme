@@ -11,7 +11,7 @@ About This Portfolio
 
 This portfolio has been prepared in support of my application for the Stipendium Hungaricum Scholarship and admission to the MSc Computer Science (Financial Technology) programme at Eötvös Loránd University (ELTE). It provides a structured overview of my academic background, professional experience, and practical engagement with computer-based systems.
 
-My career as a System Analyst in a public healthcare institution has given me extensive exposure to real-world system design, data management, and technology-driven service delivery. This experience has shaped my interest in building secure, reliable, and scalable systems—an interest I now seek to advance within the field of financial technology.
+My career as a System Analyst in a public healthcare institution has given me extensive exposure to real-world system design, data management, and technology-driven service delivery. This experience has shaped my interest in building secure, reliable, and scalable systems, an interest I now seek to advance within the field of financial technology.
 
 The portfolio is intentionally concise, evidence-based, and aligned with graduate-level expectations, enabling reviewers to clearly assess my academic readiness, professional maturity, and motivation for the programme.
 
